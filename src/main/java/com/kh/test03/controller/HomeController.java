@@ -28,7 +28,11 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		System.out.println("a");
+<<<<<<< HEAD
 		System.out.println("b");
+=======
+		System.out.println("c");
+>>>>>>> branch 'master' of https://github.com/kdw959/test01.git
 		return "home";
 	}
 	
